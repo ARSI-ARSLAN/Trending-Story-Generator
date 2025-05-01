@@ -40,21 +40,24 @@ Transform YouTube trending videos into fun, creative AI-generated stories using 
 ```bash
 git clone https://github.com/yourusername/trendstory-generator.git
 cd trendstory-generator
+```
 
 ### 2. Create a virual Environment
+```
 python -m venv venv
 source venv/bin/activate       # macOS/Linux
 venv\Scripts\activate          # Windows
+```
 
 ### 3. Install required packages
-
+```
 pip install -r requirements.txt
-
+```
 ### Run the server
-
+```
 python trendstory_server.py
-
+```
 ### Run the frontend
-
+```
 python frontend.py
-
+```
