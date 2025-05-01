@@ -54,14 +54,15 @@ venv\Scripts\activate          # Windows
 pip install -r requirements.txt
 ```
 
-##🔑 YouTube API Setup
-**Go to the Google Cloud Console
+### 🔑 YouTube API Setup
+
+Go to the Google Cloud Console
 
 Create a project and enable the YouTube Data API v3
 
 Go to "Credentials" → Create an API key
 
-Replace the API key in frontend.py:**
+Replace the API key in frontend.py:
 
 ### Run the server
 ```
