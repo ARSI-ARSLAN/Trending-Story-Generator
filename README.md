@@ -54,8 +54,8 @@ venv\Scripts\activate          # Windows
 pip install -r requirements.txt
 ```
 
-**###🔑 YouTube API Setup
-Go to the Google Cloud Console
+##🔑 YouTube API Setup
+**Go to the Google Cloud Console
 
 Create a project and enable the YouTube Data API v3
 
