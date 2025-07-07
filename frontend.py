@@ -6,7 +6,7 @@ import trendstory_pb2_grpc
 from googleapiclient.discovery import build
 
 # Replace with your own API key
-API_KEY = "AIzaSyBDgmFQctKDB9WXvIIXHTw_ZiPu49_oKuA"
+#API_KEY = "Hi Hello Listen BBC nEWS "
 
 # --- Get YouTube Trending Titles ---
 def get_trending_titles(max_results=10):
